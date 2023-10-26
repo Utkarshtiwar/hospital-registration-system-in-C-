@@ -1,6 +1,5 @@
 # hospital-registration-system-in-C++<br>
-1.
-This project is simple and contains very basic levels of the cpp programming language.<br>
+1.This project is simple and contains very basic levels of the cpp programming language.<br>
 2.
 firstly you have to make an id and password for the user.<br>
 3.
