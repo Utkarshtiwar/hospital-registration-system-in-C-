@@ -8,3 +8,4 @@ now select the doctor you want .
 press y for continue registration .
 enter name,age ,dob,and gender .
 congratulation !!! you have completed your registration.
+author -Utkarsh tiwari 
